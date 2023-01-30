@@ -56,3 +56,45 @@
 }
 
 /* list kota tutup */
+/* Artikel */
+
+#Artikel img {
+    width: 100%;
+}
+
+#Artikel .play {
+    width: 350px;
+}
+
+#Artikel h1{
+    margin-top: 300px ;
+    
+}
+
+#Artikel p {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+/* Artikel Tutup */
+/* footer */
+
+#Footer {
+    margin-top: 120px;
+    margin-bottom: 50px;
+}
+    #Footer .logo {
+        width: 120px;
+    }
+
+    #Footer H5 {
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+
+    #Footer .Sosmed {
+        width: 30px;
+        margin-right: 5px
+    }
+
+   
+/* footer Tutup */
